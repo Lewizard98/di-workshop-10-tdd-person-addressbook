@@ -1,7 +1,7 @@
 {
   "name": "person-demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "This workshop builds on the previous TDD workshop.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -11,5 +11,16 @@
   "dependencies": {
     "chai": "^4.2.0",
     "mocha": "^5.2.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lewizard98/di-workshop-10-tdd-person-addressbook.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lewizard98/di-workshop-10-tdd-person-addressbook/issues"
+  },
+  "homepage": "https://github.com/Lewizard98/di-workshop-10-tdd-person-addressbook#readme"
 }
